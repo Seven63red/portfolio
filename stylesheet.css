@@ -5,7 +5,10 @@ h1 {
 	font-style: bold;
 	color: #33FFEC;
 	background-color: DeepSkyBlue;
-	border-style: dotted double;
+	border-style: dotted;
 	border-width: 5px 10px 5px 10px;
 	border-color: #AF7AC5;
+	float: left;
+	float: right;
+	clear: both;
 }
