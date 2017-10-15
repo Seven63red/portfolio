@@ -17,3 +17,7 @@ a{
 	font-family:"Fanwood Text";
 	color: #CCEFF;
 }
+
+ul {
+	list-style-type:none;
+}
