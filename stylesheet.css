@@ -4,11 +4,16 @@ h1 {
 	font-size: 24px;
 	font-style: bold;
 	color: #33FFEC;
-	background-color: DeepSkyBlue;
+	background-color: White;
 	border-style: dotted;
 	border-width: 5px 10px 5px 10px;
 	border-color: #AF7AC5;
 	float: left;
 	float: right;
 	clear: both;
+}
+
+a{
+	font-family:"Fanwood Text";
+	color: #CCEFF;
 }
