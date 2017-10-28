@@ -13,6 +13,10 @@ h1 {
 	clear: both;
 }
 
+h2 {
+	font-color: DarkBlue;
+}
+
 a{
 	font-family:"Fanwood Text";
 	color: #CCEFF;
